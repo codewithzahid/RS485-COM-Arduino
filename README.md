@@ -1,7 +1,5 @@
 # Arduino-RS485-Communication
 
-Zahid Hasan  | Date: 06.04.2023 | www.micromotionbd.com
-
 
 # Description:
 In this code, we're using the SoftwareSerial library to create a serial communication between the two Arduino boards. The MAX485 transceiver is used to convert the
